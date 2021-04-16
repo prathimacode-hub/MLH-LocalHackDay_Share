@@ -20,4 +20,4 @@ This is just a start. Hope I can expand my horizons further to do some useful pr
 
 # Hello World Logo
 
-![HelloWorld Logo](<https://github.com/prathimacode-hub/LHD-HelloWorld/blob/main/LHD-HelloWorldLogo.png>)
+![HelloWorld Logo](<https://github.com/prathimacode-hub/MLH-LocalHackDay_Share/blob/main/HelloWorld_JavaScript/LHD_HelloWorldLogo.png>)
