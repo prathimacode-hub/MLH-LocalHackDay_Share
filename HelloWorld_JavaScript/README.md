@@ -1,6 +1,6 @@
 # **LHD-HelloWorld - Day1 (Daily Challenges)**
 
-![HelloWorld](<https://github.com/prathimacode-hub/LHD-HelloWorld/blob/main/HelloWorld.png>)
+![HelloWorld](<https://github.com/prathimacode-hub/MLH-LocalHackDay_Share/blob/main/HelloWorld_JavaScript/HelloWorld.png>)
 
 # Hello World Program in Javascript
 
